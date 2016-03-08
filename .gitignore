@@ -1,0 +1,11 @@
+#do not manage [.class] file
+*.class
+#do not manage following folder
+/bin/
+#do not manage IDE project folder
+/.idea/
+/.myeclipse/
+test/sg/edu/nus/iss/usstore/test/TransactionItemTest.java
+test/sg/edu/nus/iss/usstore/test/TransactionItemTest.java
+test/sg/edu/nus/iss/usstore/test/TransactionItemTest.java
+src/sg/edu/nus/iss/usstore/gui/ProductDialog.java
